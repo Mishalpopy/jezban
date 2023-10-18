@@ -1,0 +1,26 @@
+{
+    "SliderHomeThree":[
+        {
+            "id": 1,
+            "img": "/assets/img/bg/hero-bg-3.jpg",
+            "description": "Your Trusted Pest Control Experts",
+            "title1": "Jezban Pest Control:",
+            "title2": " Keeping Your Home Pest-Free"
+        },
+        {
+            "id": 2,
+            "img": "/assets/img/bg/hero-bg-3.1.jpg",
+            "description": "Pest-Free Peace of Mind",
+            "title1": "Emergency Pest Control",
+            "title2": " Whenever You Need It"
+        },
+        {
+            "id": 3,
+            "img": "/assets/img/bg/hero-bg-3.2.jpg",
+            "description": "Green and Eco-Friendly Pest Management",
+            "title1": "Protecting Your Home",
+            "title2": " with Natural Solutions"
+        }
+
+    ]
+}
