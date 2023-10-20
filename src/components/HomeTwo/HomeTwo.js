@@ -5,7 +5,7 @@ import FullScreenBtn from "../common/FullScreenBtn";
 import Menu from "../common/Menu/Menu";
 import Testimonial from "../common/Testimonial/Testimonial";
 import BlogHomeTwo from "./BlogHomeTwo";
-import GalleryHomeTwo from "./GalleryHomeTwo";
+
 import Services from "./Services";
 import SliderHomeTwo from "./SliderHomeTwo";
 import TopCategoryHomePageTwo from "./TopCategoryHomePageTwo";
@@ -19,7 +19,6 @@ const HomeTwo = () => {
       <SliderHomeTwo />
       <Services />
       <TopCategoryHomePageTwo />
-      <GalleryHomeTwo />
       <Testimonial />
       <Brands />
       <BlogHomeTwo />

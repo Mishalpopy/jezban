@@ -10,7 +10,7 @@ import AboutThree from "./AboutThree";
 import BlogThree from "./BlogThree";
 import CategoryThree from "./CategoryThree";
 import ContactThree from "./ContactThree";
-import PortfolioThree from "./PortfolioThree";
+
 import Promotion from "./Promotion";
 import SliderHomeThree from "./SliderHomeThree";
 
@@ -22,7 +22,6 @@ const HomeThree = () => {
       <AboutThree />
       <CategoryThree />
       <FullScreenBtn />
-      <PortfolioThree />
       <Promotion />
       <Team />
       <Testimonial />
