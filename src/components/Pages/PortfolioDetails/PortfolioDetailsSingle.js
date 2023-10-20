@@ -17,7 +17,7 @@ const PortfolioDetailsSingle = () => {
                     </span>
                     <span>
                       <b>Date:</b>
-                      <a href="#"> March 21, 2020</a>
+                      <a href="/"> March 21, 2020</a>
                     </span>
                     <span>
                       <b>Category:</b>

@@ -1,9 +1,9 @@
 import React,{useState} from "react";
 import { Link } from "react-router-dom";
-import VideoPopup from "../../common/Modals/VideoPopup";
+
 
 const AboutFeature = () => {
-  const [isVideoOpen,setIsVideoOpen] = useState(false);
+ 
   return (
     <>
       <div className="ab-feature-area p-relative">

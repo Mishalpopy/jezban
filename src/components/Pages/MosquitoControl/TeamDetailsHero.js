@@ -29,22 +29,22 @@ const TeamDetailsHero = () => {
                   </div>
                   <div className="team-social-icons mt-30">
                     <span>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-facebook-f"></i>
                       </a>
                     </span>
                     <span>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-instagram"></i>
                       </a>
                     </span>
                     <span>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-twitter"></i>
                       </a>
                     </span>
                     <span>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-pinterest"></i>
                       </a>
                     </span>

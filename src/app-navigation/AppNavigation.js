@@ -5,8 +5,6 @@ import BackToTop from '../components/BackToTop';
 import AnimateMouse from '../components/common/AnimateMouse';
 import ContextProvider from '../components/context/ContextProvider';
 import Home from '../components/Home/Home';
-import HomeThree from '../components/HomeThree/HomeThree';
-import HomeTwo from '../components/HomeTwo/HomeTwo';
 import About from '../components/Pages/About/About';
 import Blog from '../components/Pages/Blog/Blog';
 import BlogDetails from '../components/Pages/BlogDetails/BlogDetails';
@@ -27,8 +25,6 @@ const AppNavigation = () => {
       <AnimateMouse/>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/home-2" element={<HomeTwo />} />
-        <Route path="/home-3" element={<HomeThree />} />
         <Route path="/about" element={<About />} />
         <Route path="/team" element={<TeamPage/>} />
         <Route path="/team-details" element={<TeamDetails />} />

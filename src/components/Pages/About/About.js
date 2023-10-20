@@ -1,14 +1,12 @@
 import React from "react";
-import Brands from "../../common/Brands/Brands";
 import FooterThree from "../../common/Footer/FooterThree";
 import Menu from "../../common/Menu/Menu";
 import Testimonial from "../../common/Testimonial/Testimonial";
-import Services from "../../HomeTwo/Services";
 import AboutBanner from "./AboutBanner";
 import AboutCompany from "./AboutCompany";
 import AboutFeature from "./AboutFeature";
-import ContactWithTeam from "../TeamDetails/ContactWithTeam";
 import Contact from "../../common/Contact/Contact";
+import ServicesHome from "../../Home/Service";
 
 const About = () => {
   return (
@@ -16,7 +14,7 @@ const About = () => {
       <Menu header_style_1={true} />
       <AboutBanner />
       <AboutCompany />
-      <Services />
+      <ServicesHome />
       <AboutFeature />
       <Testimonial />
       <Contact />

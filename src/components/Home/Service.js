@@ -47,7 +47,7 @@ export function ServiceItem({ icon, title, desc }) {
   );
 }
 
-const Services = () => {
+const ServicesHome = () => {
   return (
     <>
       {/* <!-- service area start  --> */}
@@ -121,4 +121,4 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default ServicesHome;

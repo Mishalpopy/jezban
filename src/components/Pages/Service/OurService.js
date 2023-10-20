@@ -1,5 +1,5 @@
 import React from "react";
-import { ServiceItem } from "../../HomeTwo/Services";
+import { ServiceItem } from "../../Home/Service";
 
 const OurService = () => {
   return (
