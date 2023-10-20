@@ -92,7 +92,7 @@ const PortfolioDetailsSingle = () => {
                 <div className="pj-detials-pagenation d-flex justify-content-between">
                   <div className="pj-detials-pagenation-left">
                     <span>
-                      <a href="#">
+                      <a href="/">
                         <svg
                           width="39"
                           height="16"
@@ -111,7 +111,7 @@ const PortfolioDetailsSingle = () => {
                   </div>
                   <div className="pj-detials-pagenation-right">
                     <span>
-                      <a href="#">
+                      <a href="/">
                         next
                         <svg
                           width="43"

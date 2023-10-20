@@ -19,19 +19,19 @@ const Footer = () => {
                         </h3>
                         <ul>
                           <li>
-                            <a href="#">London</a>
+                            <a href="/">London</a>
                           </li>
                           <li>
-                            <a href="#">America</a>
+                            <a href="/">America</a>
                           </li>
                           <li>
-                            <a href="#">Constarica</a>
+                            <a href="/">Constarica</a>
                           </li>
                           <li>
-                            <a href="#">Germany</a>
+                            <a href="/">Germany</a>
                           </li>
                           <li>
-                            <a href="#">India</a>
+                            <a href="/">India</a>
                           </li>
                         </ul>
                       </div>
@@ -41,16 +41,16 @@ const Footer = () => {
                         <h3 className="tp-footer__widget-title">Our Service</h3>
                         <ul>
                           <li>
-                            <a href="#">Tax strategy</a>
+                            <a href="/">Tax strategy</a>
                           </li>
                           <li>
-                            <a href="#">Financial advices</a>
+                            <a href="/">Financial advices</a>
                           </li>
                           <li>
-                            <a href="#">Insurance strategy</a>
+                            <a href="/">Insurance strategy</a>
                           </li>
                           <li>
-                            <a href="#">Manage investment</a>
+                            <a href="/">Manage investment</a>
                           </li>
                         </ul>
                       </div>
@@ -60,16 +60,16 @@ const Footer = () => {
                         <h3 className="tp-footer__widget-title">Quick Links</h3>
                         <ul>
                           <li>
-                            <a href="#">Our Team</a>
+                            <a href="/">Our Team</a>
                           </li>
                           <li>
-                            <a href="#">Faq</a>
+                            <a href="/">Faq</a>
                           </li>
                           <li>
-                            <a href="#">Portfolio</a>
+                            <a href="/">Portfolio</a>
                           </li>
                           <li>
-                            <a href="#">Service</a>
+                            <a href="/">Service</a>
                           </li>
                         </ul>
                       </div>
@@ -79,7 +79,7 @@ const Footer = () => {
                         <h3 className="tp-footer__widget-title">Quick Links</h3>
                         <ul>
                           <li>
-                            <a href="#">
+                            <a href="/">
                               27 Division St, New York, NY 10002, USA
                             </a>
                           </li>
@@ -123,27 +123,27 @@ const Footer = () => {
                 <div className="tp-footer-social-icon mb-30 text-md-end">
                   <ul>
                     <li>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-facebook"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-twitter"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-instagram"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-youtube"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-linkedin"></i>
                       </a>
                     </li>

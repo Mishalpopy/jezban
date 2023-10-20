@@ -103,22 +103,22 @@ const Contact = () => {
                 <div className="tp-ct-info pt-60 pl-50 pb-50 black-bg-2">
                   <div className="tp-ct-info-icons">
                     <span>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-youtube"></i>
                       </a>
                     </span>
                     <span>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-facebook-f"></i>
                       </a>
                     </span>
                     <span>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-twitter"></i>
                       </a>
                     </span>
                     <span>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-instagram"></i>
                       </a>
                     </span>

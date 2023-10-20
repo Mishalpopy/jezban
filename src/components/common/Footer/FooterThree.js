@@ -14,7 +14,7 @@ const FooterThree = () => {
                   <div className="row">
                     <div className="col-12 col-md-6">
                       <div className="footer-logo mb-30">
-                        <Link to="/" href="#"><img src="/assets/img/white.svg" width={300} alt="" /></Link>
+                        <Link to="/" href="/"><img src="/assets/img/white.svg" width={300} alt="" /></Link>
                       </div>
                     </div>
                     <div className="col-12 col-md-6 text-end">
@@ -33,10 +33,10 @@ const FooterThree = () => {
                     <div className="tp-footer__widget tp-footer__2 pb-30">
                       <h3 className="tp-footer__widget-title text-white">Quick Links</h3>
                       <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Gallery</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/">About Us</a></li>
+                        <li><a href="/">Gallery</a></li>
+                        <li><a href="/">Contact Us</a></li>
                   
                       </ul>
                     </div>
@@ -45,10 +45,10 @@ const FooterThree = () => {
                     <div className="tp-footer__widget tp-footer__2 pb-30">
                       <h3 className="tp-footer__widget-title text-white">Our Service</h3>
                       <ul>
-                        <li><a href="#">Mosquito Control</a></li>
-                        <li><a href="#">Cockroach Control</a></li>
-                        <li><a href="#">Ants Control</a></li>
-                        <li><a href="#">Bedbugs Control</a></li>
+                        <li><a href="/">Mosquito Control</a></li>
+                        <li><a href="/">Cockroach Control</a></li>
+                        <li><a href="/">Ants Control</a></li>
+                        <li><a href="/">Bedbugs Control</a></li>
                       </ul>
                     </div>
                   </div>
@@ -57,7 +57,7 @@ const FooterThree = () => {
                     <div className="tp-footer__widget tp-footer__2  pb-30">
                       <h3 className="tp-footer__widget-title text-white">Quick Links</h3>
                       <ul>
-                        <li><a href="#">27 Division St, Dubai UAE</a></li>
+                        <li><a href="/">27 Division St, Dubai UAE</a></li>
                         <li><a href="tel:+88015569569365">(+971)52462545632</a></li>
                         <li><a href="mailto:support@example.com">info@jeban.com</a></li>
                         <li><span> Office Hours: 9AM - 4PM</span></li>

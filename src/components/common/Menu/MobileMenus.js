@@ -34,11 +34,11 @@ const MobileMenus = () => {
                     </li>
                   ))}
                 </ul>
-                <a
+                <a href ="/"
                   className={`mean-expand ${
                     navTitle === menu.title ? "mean-clicked" : ""
                   }`}
-                  to="#"
+                  to="/"
                   onClick={() => openMobileMenu(menu.title)}
                   style={{ fontSize: "18px" }}
                 >

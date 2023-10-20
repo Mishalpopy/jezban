@@ -59,7 +59,7 @@ const PriceDetails = () => {
                       </li>
                     </ul>
                   </div>
-                  <a className="tp-purchase-btn" href="#">
+                  <a className="tp-purchase-btn" href="/">
                     Purchase Now{" "}
                     <span>
                       <svg
@@ -144,7 +144,7 @@ const PriceDetails = () => {
                       </li>
                     </ul>
                   </div>
-                  <a className="tp-purchase-btn" href="#">
+                  <a className="tp-purchase-btn" href="/">
                     Purchase Now{" "}
                     <span>
                       <svg
@@ -229,7 +229,7 @@ const PriceDetails = () => {
                       </li>
                     </ul>
                   </div>
-                  <a className="tp-purchase-btn" href="#">
+                  <a className="tp-purchase-btn" href="/">
                     Purchase Now{" "}
                     <span>
                       <svg

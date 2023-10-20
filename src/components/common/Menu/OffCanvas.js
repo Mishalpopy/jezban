@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import MobileMenu from "./MobileMenu";
 import MobileMenus from "./MobileMenus";
 
 const OffCanvas = ({ setOffCanvas, isOffCanvas }) => {

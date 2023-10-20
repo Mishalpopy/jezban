@@ -2,12 +2,12 @@ import React, { useContext, useEffect, useRef } from "react";
 import { AppContext } from "../context/ContextProvider";
 
 const AnimateMouse = () => {
-  const {isEnter} = useContext(AppContext);
+  const { isEnter } = useContext(AppContext);
   const eRef = useRef(null);
   const tRef = useRef(null);
-  let n,
-    i = 0,
-    o = false;
+  const nRef = useRef(null);
+  const iRef = useRef(null);
+  const o = false;
 
   useEffect(() => {
     const handleMouseMove = (s) => {
@@ -15,8 +15,8 @@ const AnimateMouse = () => {
         tRef.current.style.transform = `translate(${s.clientX}px, ${s.clientY}px)`;
       }
       eRef.current.style.transform = `translate(${s.clientX}px, ${s.clientY}px)`;
-      n = s.clientY;
-      i = s.clientX;
+      nRef.current = s.clientY;
+      iRef.current = s.clientX;
     };
     window.addEventListener("mousemove", handleMouseMove);
 
