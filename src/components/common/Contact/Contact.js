@@ -3,13 +3,13 @@ import React from "react";
 const Contact = () => {
   return (
     <>
-      <div className="tp-sv-contact grey-bg-4 pt-140 pb-140">
+      <div className="tp-sv-contact grey-bg-4 pt-90 pb-90">
         <div className="container">
           <div className="row">
             <div className="col-12">
               <div className="tp-section-wrapper text-center pb-40">
                 <span className="tp-section-subtitle mb-25">
-                  Derect Contact
+                  Direct Contact
                 </span>
                 <h2 className="tp-section-title">
                   Can’t find what are you <br />
@@ -83,9 +83,9 @@ const Contact = () => {
                     Online Contact
                   </h3>
                   <p>
-                    Ta-134/A, Gulshan Badda Link <br />
-                    Rd, Dhaka. BD 1234 <br />
-                    (+880)52462545632
+                  27 Division St, Dubai  <br />
+                    United Arab Emirates<br />
+                    (+971)52462545632
                   </p>
                 </div>
                 <div className="tp-ct-info pt-60 pl-50 pb-35">

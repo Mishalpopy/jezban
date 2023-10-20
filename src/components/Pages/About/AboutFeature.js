@@ -12,14 +12,7 @@ const AboutFeature = () => {
           //   data-background="assets/img/bg/feature-bg.jpg"
           style={{ backgroundImage: `url("assets/img/bg/feature-bg.jpg")` }}
         >
-          <div className="serive-vd-play">
-            <button
-              onClick={()=> setIsVideoOpen(true)}
-              className="sv-popup-video"
-            >
-              <i className="fas fa-play"></i>
-            </button>
-          </div>
+         
         </div>
         <div className="container-fluid p-0">
           <div className="row g-0">
@@ -70,13 +63,7 @@ const AboutFeature = () => {
         </div>
       </div>
 
-      {/* video modal start */}
-      <VideoPopup
-        isVideoOpen={isVideoOpen}
-        setIsVideoOpen={setIsVideoOpen}
-        videoId={"EW4ZYb3mCZk"}
-      />
-      {/* video modal end */}
+     
     </>
   );
 };

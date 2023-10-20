@@ -12,6 +12,7 @@ import Blog from '../components/Pages/Blog/Blog';
 import BlogDetails from '../components/Pages/BlogDetails/BlogDetails';
 import ContactUs from '../components/Pages/ContactUs/ContactUs';
 import FAQ from '../components/Pages/FAQ/FAQ';
+import MosquitoControl from '../components/Pages/MosquitoControl/MosquitoControl'
 import Portfolio from '../components/Pages/Portfolio/Portfolio';
 import PortfolioDetails from '../components/Pages/PortfolioDetails/PortfolioDetails';
 import Price from '../components/Pages/Price/Price';
@@ -40,6 +41,8 @@ const AppNavigation = () => {
         <Route path="/portfolio-details" element={<PortfolioDetails />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/blog-details" element={<BlogDetails />} />
+        <Route path="/mosquito-control" element={<MosquitoControl />} />
+
       </Routes>
       <BackToTop/>
     </ContextProvider>

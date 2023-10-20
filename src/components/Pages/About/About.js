@@ -7,6 +7,8 @@ import Services from "../../HomeTwo/Services";
 import AboutBanner from "./AboutBanner";
 import AboutCompany from "./AboutCompany";
 import AboutFeature from "./AboutFeature";
+import ContactWithTeam from "../TeamDetails/ContactWithTeam";
+import Contact from "../../common/Contact/Contact";
 
 const About = () => {
   return (
@@ -17,7 +19,7 @@ const About = () => {
       <Services />
       <AboutFeature />
       <Testimonial />
-      <Brands />
+      <Contact />
       <FooterThree />
     </>
   );
