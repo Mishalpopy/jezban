@@ -21,20 +21,20 @@ const PortfolioDetailsSingle = () => {
                     </span>
                     <span>
                       <b>Category:</b>
-                      <a href="#"> Technology</a>
+                      <a href="/"> Technology</a>
                     </span>
                     <span className="pj-share-icons">
                       <b>Share:</b>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-facebook-f"></i>
                       </a>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-instagram"></i>
                       </a>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-twitter"></i>
                       </a>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-pinterest-p"></i>
                       </a>
                     </span>

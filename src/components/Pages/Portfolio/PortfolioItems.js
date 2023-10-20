@@ -72,7 +72,7 @@ const PortfolioItems = () => {
                   <img src={item.img} alt="" />
                 </div>
                 <span>
-                  <a href="#">{item.tag}</a>
+                  <a href="/">{item.tag}</a>
                 </span>
                 <h4 className="pj-list__title">
                   <Link to="/portfolio-details">{item.title}</Link>
